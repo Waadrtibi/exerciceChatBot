@@ -1,0 +1,16 @@
+# Machine Learning
+scikit-learn==1.4.1
+pandas==2.2.2
+numpy==1.26.4
+
+# Deep Learning
+tensorflow==2.15.0
+
+# Interface
+streamlit==1.35.0
+
+# Sauvegarde modèles
+pickle-mixin==1.0.2
+
+# Optionnel pour nettoyage/traitement NLP
+nltk==3.8.1
